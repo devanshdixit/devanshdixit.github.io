@@ -1,6 +1,0 @@
-.card {
-  @apply m-2 h-20 w-20 flex items-center flex-col justify-center bg-gray-900 cursor-pointer rounded md:h-24 md:w-24 hover:bg-gray-800;
-}
-.container {
-  @apply flex mx-4 flex-wrap mt-8 justify-center md:mt-0 md:mx-0 md:justify-start md:items-start md:mb-48;
-}

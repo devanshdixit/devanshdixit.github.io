@@ -1,4 +1,0 @@
-.container {
-  height: 90vh;
-  @apply flex flex-col justify-center items-center md:flex-row-reverse md:h-auto;
-}
